@@ -1,1 +1,2 @@
-sex
+memo
+cpu
