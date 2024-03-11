@@ -7,3 +7,5 @@ server2
 3
 local1
 local2
+server1
+server22
