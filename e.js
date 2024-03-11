@@ -6,3 +6,4 @@ server2
 2
 3
 local1
+local2
