@@ -1,7 +1,11 @@
+<<<<<<< HEAD
 qq<<<<<<< HEAD
+=======
+<<<<<<< HEADsserver2
+>>>>>>> origin/main
 wwqwqe
 =======
-seerver2qwqe
+seerver2qwqe213
 >>>>>>> origin/main
 asd
 1
