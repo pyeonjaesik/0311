@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 wwqwqe
+=======
+seerver2qwqe
+>>>>>>> origin/main
 asd
 1
 server1
@@ -9,3 +13,4 @@ local1
 local2
 server1
 server22
+1
